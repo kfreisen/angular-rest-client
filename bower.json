@@ -1,0 +1,21 @@
+{
+  "name": "angular-rest-client",
+  "version": "0.0.0",
+  "description": "angular restful client",
+  "main": "dist/angular-rest-client.js",
+  "keywords": [
+    "angular",
+    "rest"
+  ],
+  "authors": [
+    "kfreisen"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
